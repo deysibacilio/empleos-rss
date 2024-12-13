@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Ofertas de Empleo en España</title>
+    <link>http://www.empleos-espana.com</link>
+    <description>Últimas ofertas de empleo y oportunidades laborales en España</description>
+    <language>es-es</language>
+    <managingEditor>Deysi@empleos-espana.com</managingEditor>
+    <webMaster>webmaster@empleos-espana.com</webMaster>
+    <copyright>Empleos España. Derechos reservados</copyright>
+    <item>
+      <title>Oportunidad de Empleo: Consultor Financiero en Bilbao</title>
+      <pubDate>Sun, 8 Dec 2024 11:59:22 +0100</pubDate>
+      <link>http://www.empleos-espana.com/articulo5</link>
+      <author>Deysi@empleos-espana.com</author>
+      <category>Finanzas</category>
+      <description><![CDATA[Consultora en Bilbao busca un consultor financiero con experiencia en análisis de inversiones. Ofrecemos un entorno profesional y oportunidades de desarrollo.]]></description>
+    </item>
+    <item>
+      <title>Oportunidad de Empleo: Ingeniero de Software en Sevilla</title>
+      <pubDate>Mon, 9 Dec 2024 11:58:39 +0100</pubDate>
+      <link>http://www.empleos-espana.com/articulo4</link>
+      <author>Deysi@empleos-espana.com</author>
+      <category>Tecnología</category>
+      <description><![CDATA[Innovación en Sevilla. Empresa tecnológica busca un ingeniero de software con experiencia en desarrollo de aplicaciones móviles. ¡Desarrolla tu carrera con nosotros!]]></description>
+    </item>
+    <item>
+      <title>Oportunidad de Empleo: Gerente de Marketing en Valencia</title>
+      <pubDate>Tue, 10 Dec 2024 11:57:38 +0100</pubDate>
+      <link>http://www.empleos-espana.com/articulo3</link>
+      <author>Deysi@empleos-espana.com</author>
+      <category>Marketing </category>
+      <description><![CDATA[Desafío en Marketing Digital en Valencia. Se necesita un gerente de marketing con experiencia en campañas digitales. Únete a nosotros y lidera nuestras estrategias de marketing.]]></description>
+    </item>
+    <item>
+      <title>Oportunidad de Empleo: Analista de Datos en Barcelona</title>
+      <pubDate>Wed, 11 Dec 2024 11:45:17 +0100</pubDate>
+      <link>http://www.empleos-espana.com/articulo2</link>
+      <author>Deysi@empleos-espana.com</author>
+      <category>Datos</category>
+      <description><![CDATA[Empresa líder en Barcelona busca un analista de datos con conocimientos en SQL y Python. Si eres apasionado por los datos y el análisis, ¡te queremos en nuestro equipo!]]></description>
+    </item>
+    <item>
+      <title>Oportunidad de Empleo: Desarrollador Web en Madrid</title>
+      <pubDate>Thu, 12 Dec 2024 11:34:27 +0100</pubDate>
+      <link>http://www.empleos-espana.com/articulo1</link>
+      <author>Deysi@empleos-espana.com</author>
+      <category>Tecnología</category>
+      <description><![CDATA[Únete a nuestro equipo en Madrid! Buscamos un desarrollador web con experiencia en HTML, CSS y JavaScript. Ofrecemos un entorno dinámico y oportunidades de crecimiento.]]></description>
+    </item>
+  </channel>
+</rss>
